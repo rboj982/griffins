@@ -1,0 +1,381 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-image: url(./atacsfg.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.nav0 {
+  background-image: url(./marpat.jpg);
+  background-position: center center;
+  padding: 15px;
+  border-style: dashed;
+  height: 60px;
+}
+.insta,
+.face,
+.you,
+.twit {
+  float: right;
+}
+.logo {
+  margin: -4rem 0px 0px -0.5rem;
+  width: 10rem;
+}
+li {
+  list-style-type: none;
+  display: inline;
+  text-decoration: none;
+}
+.nas1,
+.nas2,
+.nas3,
+.nas4 {
+  color: rgba(0, 0, 0, 0.562);
+  font-family: fantasy;
+  font-size: 2rem;
+  padding: 1rem 1rem;
+  margin: -10rem 2rem;
+}
+.inline {
+  margin: -6rem 1rem 1rem -14.5rem;
+  text-align: center;
+}
+.gun {
+  margin-left: 1rem;
+  margin-bottom: -1rem;
+}
+.tai {
+  margin-left: -1rem;
+  margin-bottom: 7rem;
+}
+.pan {
+  margin-left: 0rem;
+  margin-bottom: -0.7rem;
+}
+.hor {
+  margin-left: -0.5rem;
+  margin-bottom: 5rem;
+}
+.arm {
+  margin-left: -2rem;
+  margin-bottom: -0.7rem;
+}
+.mil {
+  margin-left: -3rem;
+  margin-bottom: 7rem;
+}
+.mmo {
+  margin-left: -1rem;
+  margin-bottom: -1.2rem;
+}
+.kp {
+  margin-left: -3rem;
+  margin-bottom: 5rem;
+}
+#youtube {
+  width: 80%;
+  height: 60rem;
+  margin-top: 100px;
+  margin-left: 5em;
+  border: 0.8rem;
+  border-color: rgba(0, 0, 0, 0.349);
+  border-style: double;
+}
+.img1 {
+  border: black;
+  border-style: double;
+  margin-left: 2rem;
+  height: 25%;
+  width: 25%;
+}
+
+.img2 {
+  border: black;
+  border-style: double;
+  margin-bottom: 2rem;
+  height: 37%;
+  width: 37%;
+}
+.img3 {
+  border-color: black;
+  border-style: double;
+  height: 25%;
+  width: 33%;
+}
+.lban {
+  text-align: center;
+  font-size: 1.5rem;
+  word-spacing: 1rem;
+  text-decoration: black;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-bottom: 5rem;
+  border-style: dashed;
+  background-color: rgba(87, 51, 4, 0.493);
+}
+.korisni {
+  text-align: center;
+}
+#uvod {
+  text-align: center;
+  font-size: 18px;
+  margin-top: 7rem;
+  margin-bottom: -2rem;
+  margin-left: -15rem;
+  font-family: fantasy;
+  font-style: italic;
+  word-spacing: 10px;
+  letter-spacing: 8px;
+  text-transform: uppercase;
+  color: rgba(0, 0, 0, 0.404);
+}
+.tex-nama {
+  text-align: center;
+  font-size: 1rem;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-top: 15rem;
+}
+.air {
+  text-align: center;
+  font-size: 1rem;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-top: 3rem;
+  margin-bottom: 8rem;
+}
+.prednost {
+  text-align: center;
+  font-size: 2rem;
+  word-spacing: 1rem;
+  text-decoration: black;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-bottom: 5rem;
+  border-style: dashed;
+  background-color: rgba(87, 51, 4, 0.493);
+}
+.druz {
+  font-size: 1.5rem;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-style: oblique;
+  font-weight: bold;
+  text-align: center;
+  word-spacing: 17rem;
+  border-radius: 20rem;
+  background-color: rgba(0, 133, 71, 0.363);
+  border-style: double;
+}
+.desna-strana {
+  margin-top: -6.5rem;
+  float: right;
+}
+.reklame-dole {
+  margin-bottom: 8rem;
+  text-align: center;
+}
+.ko {
+  text-align: center;
+  font-size: 32px;
+  font-family: fantasy;
+  color: rgba(0, 0, 0, 0.678);
+  margin-top: 8rem;
+}
+.br1 {
+  text-align: center;
+  font-size: 25px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-style: italic;
+}
+.br2 {
+  text-align: center;
+  font-size: 25px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-style: italic;
+  margin-top: -1.5rem;
+}
+.email {
+  text-align: center;
+  font-size: 32px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-style: italic;
+  margin-bottom: -0rem;
+}
+.em {
+  font-size: 30px;
+  margin-left: 33rem;
+  font-style: oblique;
+  font-weight: bold;
+  margin-left: 42%;
+}
+.zvan {
+  text-align: center;
+  font-size: 30px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-style: italic;
+  margin-left: 0%;
+  margin-bottom: -0rem;
+}
+.fac {
+  font-size: 30px;
+  margin-left: 37%;
+  font-style: oblique;
+  font-weight: bold;
+  margin-top: 5rem;
+}
+.inst {
+  font-size: 30px;
+  margin-left: 37%;
+  font-style: oblique;
+  font-weight: bold;
+}
+.yo {
+  font-size: 30px;
+  margin-left: 37.5%;
+  font-style: oblique;
+  font-weight: bold;
+}
+.drugipas {
+  text-align: center;
+  font-size: 1rem;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-top: 3rem;
+}
+.bf {
+  float: left;
+  margin-left: 42%;
+}
+.m4 {
+  /* margin: -11rem 7rem 0.8rem 17rem; */
+  float: left;
+  margin-left: 25%;
+  margin-right: 5px;
+  margin-top: 0.2%;
+}
+#gallery {
+  margin-top: 8rem;
+  margin-left: 100px;
+  margin-right: 100px;
+  line-height: 0;
+  -webkit-column-count: 5;
+  -webkit-column-gap: 5px;
+  -moz-column-count: 5;
+  -moz-column-gap: 5px;
+  column-count: 4;
+  column-gap: 5px;
+}
+#gallery img {
+  width: 100% !important;
+  height: auto !important;
+  margin-bottom: 5px;
+}
+@media all and (max-width: 500px) {
+  body {
+  }
+  .desna-strana {
+    display: none;
+  }
+  .logo {
+    width: 70px;
+    margin: -55px 0px 0px 1px;
+  }
+  .inline {
+    margin: 0px;
+  }
+  .nas1,
+  .nas2,
+  .nas3,
+  .nas4 {
+    font-size: 30px;
+    padding: 0px;
+    margin: 0px;
+  }
+  .nas1 {
+    margin-left: +16px;
+  }
+  .nas2 {
+    margin-left: -14px;
+  }
+  li {
+    display: block;
+    margin-left: -200px;
+  }
+  #uvod {
+    text-align: start;
+    margin-left: 5px;
+    margin-top: 30px;
+    text-align: center;
+  }
+  #youtube {
+    margin-left: 0px;
+    height: 100%;
+    width: 100%;
+  }
+  .reklame-dole {
+    margin-top: -100px;
+    margin-left: 62%;
+    width: fit-content;
+    margin-bottom: -10px;
+  }
+  .rek1,
+  .rek2,
+  .rek4,
+  .rek5 {
+    display: none;
+  }
+  .prednost {
+    font-size: 20px;
+  }
+  .druz {
+    font-size: 16px;
+  }
+  .img1 {
+    width: 300px;
+    margin: 8px 20% 1% 15%;
+  }
+  .img2 {
+    width: 300px;
+    margin: 0px 20% 8% 15%;
+  }
+  .img3 {
+    width: 300px;
+    margin: -32px 20% 0 15%;
+  }
+  .korisni {
+    margin-top: -120px;
+    margin-left: 0.5%;
+  }
+  .gun {
+    margin: 0;
+    width: 100px;
+  }
+  .tai {
+    margin: 0;
+    width: 100px;
+  }
+  .pan {
+    margin: 0;
+    width: 100px;
+  }
+  .hor {
+    margin: 0;
+    width: 100px;
+  }
+  .arm {
+    margin: 0;
+    width: 100px;
+  }
+  .mil {
+    margin: 0;
+    width: 100px;
+  }
+  .mmo {
+    margin: 0;
+    width: 100px;
+  }
+  .kp {
+    margin: 0;
+    width: 100px;
+  }
+}
