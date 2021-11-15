@@ -343,6 +343,13 @@ li {
   .rek5 {
     display: none;
   }
+  .rek3 {
+    transition-duration: 1s;
+    margin: -20% 0px 30px 30%;
+  }
+  .rek3:hover {
+    transform: scale(0.5);
+  }
   .prednost {
     font-size: 20px;
   }
