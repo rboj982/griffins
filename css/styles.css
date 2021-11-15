@@ -237,19 +237,38 @@ li {
   font-weight: bold;
 }
 .drugipas {
-  text-align: center;
+  display: block;
+  text-align: start;
   font-size: 1rem;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   margin-top: 3rem;
 }
+.uvod_drugipas {
+  text-align: center;
+  font-size: 1.2rem;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-left: -2%;
+}
+.airsoft_drugipas {
+  text-align: center;
+  font-size: 1.2rem;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-top: 2%;
+}
+.drugipas1 {
+  display: block;
+  text-align: start;
+  font-size: 1rem;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-left: 39%;
+}
 .bf {
   float: left;
-  margin-left: 42%;
+  margin-left: 44%;
 }
 .m4 {
-  /* margin: -11rem 7rem 0.8rem 17rem; */
   float: left;
-  margin-left: 25%;
+  margin-left: 33%;
   margin-right: 5px;
   margin-top: 0.2%;
 }
@@ -377,5 +396,58 @@ li {
   .kp {
     margin: 0;
     width: 100px;
+  }
+  .bf {
+    transition-duration: 1s;
+    margin: -11% 0% 0% 52%;
+  }
+  .bf:hover {
+    transform: scale(1.3);
+  }
+  .drugipas {
+    margin: 0 5px 0 5px;
+  }
+  .uvod_drugipas {
+    font-size: 1rem;
+    margin-top: 10%;
+    margin-bottom: 10%;
+  }
+  .airsoft_drugipas {
+    font-size: 1rem;
+  }
+  .tex-nama {
+    margin-top: 200px;
+  }
+  .m4 {
+    transition-duration: 1s;
+    margin-left: 12%;
+  }
+  .m4:hover {
+    transform: rotate(-360deg) translate(-1px);
+  }
+  .ak {
+    transition-duration: 1.5s;
+    margin: 5% 0px -5% 12%;
+  }
+  .ak:hover {
+    transform: rotate(-360deg) translate(-1px);
+  }
+  .reklame-dole {
+    display: inline;
+  }
+  .gate {
+    float: left;
+    margin-left: 225px;
+  }
+  .ics {
+    transition-duration: 2s;
+    margin-left: 187px;
+  }
+  .ics:hover {
+    transform: scale(1.6);
+  }
+  .kwc {
+    float: left;
+    margin-left: 225px;
   }
 }
