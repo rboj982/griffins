@@ -440,29 +440,30 @@ li {
     transform: rotate(-360deg) translate(-1px);
   }
   .reklame-dole {
-    display: inline;
+    margin-top: -10%;
+    margin-left: 35%;
   }
   .gate {
     margin-bottom: -13px;
-    width: 170px;
+    width: 150px;
   }
   .gg {
-    margin: -100% -85% 0px 0px;
-    width: 170px;
+    margin: -100% -85% 0px 55%;
+    width: 150px;
   }
   .ics {
     transition-duration: 2s;
-    margin-left: 187px;
+    margin-left: 37%;
   }
   .ics:hover {
-    transform: scale(1.6);
+    transform: scale(1.4);
   }
   .kwc {
-    margin-bottom: -3%;
+    margin-bottom: -6%;
     width: 150px;
   }
   .specna {
-    margin: -100% -90% 0px 0px;
-    width: 160px;
+    margin: -100% -90% 0px 55%;
+    width: 150px;
   }
 }
