@@ -470,4 +470,34 @@ li {
     margin: 10% 0px 0px 12%;
     width: 320px;
   }
+  .br1,
+  .br2 {
+    margin-top: 20px;
+    font-size: 20px;
+  }
+  .email {
+    margin-top: 20px;
+    margin-bottom: 10px;
+  }
+  .em {
+    margin-left: 15%;
+    font-size: 30px;
+  }
+  .zvan {
+    margin-bottom: 20px;
+    margin-top: 25px;
+    font-size: 25px;
+  }
+  .fac {
+    margin: 0px 0px 20px 5%;
+    font-size: 25px;
+  }
+  .inst {
+    margin: 0px 0px 20px 5%;
+    font-size: 25px;
+  }
+  .yo {
+    margin: 0px 0px 20px 5%;
+    font-size: 25px;
+  }
 }
