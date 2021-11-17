@@ -193,46 +193,42 @@ li {
   font-size: 25px;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-style: italic;
-  margin-top: -1.5rem;
+  margin-top: 1.5rem;
 }
 .email {
   text-align: center;
   font-size: 32px;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-style: italic;
-  margin-bottom: -0rem;
 }
 .em {
   font-size: 30px;
-  margin-left: 33rem;
   font-style: oblique;
   font-weight: bold;
-  margin-left: 42%;
+  margin-left: 45%;
 }
 .zvan {
   text-align: center;
   font-size: 30px;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-style: italic;
-  margin-left: 0%;
-  margin-bottom: -0rem;
 }
 .fac {
   font-size: 30px;
-  margin-left: 37%;
+  margin-left: 40.5%;
   font-style: oblique;
   font-weight: bold;
   margin-top: 5rem;
 }
 .inst {
   font-size: 30px;
-  margin-left: 37%;
+  margin-left: 40.5%;
   font-style: oblique;
   font-weight: bold;
 }
 .yo {
   font-size: 30px;
-  margin-left: 37.5%;
+  margin-left: 40.5%;
   font-style: oblique;
   font-weight: bold;
 }
