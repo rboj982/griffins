@@ -427,14 +427,14 @@ li {
   }
   .m4 {
     transition-duration: 1s;
-    margin-left: 12%;
+    margin-left: 2%;
   }
   .m4:hover {
     transform: rotate(-360deg) translate(-1px);
   }
   .ak {
     transition-duration: 1.5s;
-    margin: 5% 0px -5% 12%;
+    margin: 5% 0px -5% 2%;
   }
   .ak:hover {
     transform: rotate(-360deg) translate(-1px);
@@ -443,8 +443,12 @@ li {
     display: inline;
   }
   .gate {
-    float: left;
-    margin-left: 225px;
+    margin-bottom: -13px;
+    width: 170px;
+  }
+  .gg {
+    margin: -100% -85% 0px 0px;
+    width: 170px;
   }
   .ics {
     transition-duration: 2s;
@@ -454,7 +458,11 @@ li {
     transform: scale(1.6);
   }
   .kwc {
-    float: left;
-    margin-left: 225px;
+    margin-bottom: -3%;
+    width: 150px;
+  }
+  .specna {
+    margin: -100% -90% 0px 0px;
+    width: 160px;
   }
 }
